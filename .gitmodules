@@ -1,0 +1,3 @@
+[submodule "snowflake-id"]
+	path = snowflake-id
+	url = https://github.com/mid-guy/snowflake-id.git
