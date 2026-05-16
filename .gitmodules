@@ -4,3 +4,15 @@
 [submodule "caching-proxy"]
 	path = caching-proxy
 	url = https://github.com/mid-guy/caching-proxy.git
+[submodule "bloom-filter"]
+	path = bloom-filter
+	url = https://github.com/mid-guy/bloom-filter.git
+[submodule "cuckoo-filter"]
+	path = cuckoo-filter
+	url = https://github.com/mid-guy/cuckoo-filter.git
+[submodule "broadcast-server"]
+	path = broadcast-server
+	url = https://github.com/mid-guy/broadcast-server.git
+[submodule "sse-server"]
+	path = sse-server
+	url = https://github.com/mid-guy/sse-server.git
