@@ -1,3 +1,6 @@
 [submodule "snowflake-id"]
 	path = snowflake-id
 	url = https://github.com/mid-guy/snowflake-id.git
+[submodule "caching-proxy"]
+	path = caching-proxy
+	url = https://github.com/mid-guy/caching-proxy.git
