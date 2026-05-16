@@ -7,3 +7,6 @@
 [submodule "bloom-filter"]
 	path = bloom-filter
 	url = https://github.com/mid-guy/bloom-filter.git
+[submodule "cuckoo-filter"]
+	path = cuckoo-filter
+	url = https://github.com/mid-guy/cuckoo-filter.git
