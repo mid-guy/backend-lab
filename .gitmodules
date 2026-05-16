@@ -10,3 +10,9 @@
 [submodule "cuckoo-filter"]
 	path = cuckoo-filter
 	url = https://github.com/mid-guy/cuckoo-filter.git
+[submodule "broadcast-server"]
+	path = broadcast-server
+	url = https://github.com/mid-guy/broadcast-server.git
+[submodule "sse-server"]
+	path = sse-server
+	url = https://github.com/mid-guy/sse-server.git
