@@ -4,3 +4,6 @@
 [submodule "caching-proxy"]
 	path = caching-proxy
 	url = https://github.com/mid-guy/caching-proxy.git
+[submodule "bloom-filter"]
+	path = bloom-filter
+	url = https://github.com/mid-guy/bloom-filter.git
